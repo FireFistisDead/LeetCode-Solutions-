@@ -14,7 +14,7 @@ This repository will help you (ig😅😅) to some extent and this is my initiat
 
 ---
 
-## Why to checkoutthis repository🤔🤔??
+## Why to checkout this repository🤔🤔??
 To make this repo public you can see the solutions of the problems which are in an organised way and you can also tell me how can i improve on some problems like how can i more optimise the solution.
 
 ---
@@ -23,7 +23,8 @@ Here, I solve problems daily to enhance my skills in data structures and algorit
 This journey is all about consistency, growth, and becoming a better problem solver. 💪
 
 ---
-
+## Weekly Contest and Biweekly Contest Problem solutions🎯
+Here, I will be uploading (or try to upload as much as possible😅) weekly and biweekly contest solutions 
 
 
 
