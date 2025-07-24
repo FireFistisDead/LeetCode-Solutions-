@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="assests/banner.jpeg" alt="description" width="40%" />
 </p>
 </br>
