@@ -19,7 +19,7 @@ This journey is all about consistency, growth, and becoming a better problem sol
 
 ---
 
-## Why to see at this repository🤔🤔??
+## Why to checkoutthis repository🤔🤔??
 
 To make this repo public you can see the solutions of the problems which are in an organised way and you can also tell me how can i improve on some problems like how can i more optimise the solution.
 
