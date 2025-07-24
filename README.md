@@ -1,5 +1,5 @@
 <p>
-  <img src="assests/banner.jpeg" alt="description" width="60%" />
+  <img src="assests/banner.jpeg" alt="description" width="60%" height="20%" />
 </p>
 </br>
 
