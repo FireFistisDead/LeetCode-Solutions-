@@ -10,7 +10,7 @@ This repository will help you (ig😅😅) to some extent and this is my initiat
 
 # My LeetCode Progress
 
-![My Leetcode Progress till 24 July 2025 ](assests/ss2.png)
+![My Leetcode Progress till 24 July 2025](assests/ss2.png)
 <br><br>
 
 ## 🧠 Daily LeetCode Progress
