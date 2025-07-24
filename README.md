@@ -8,7 +8,7 @@ This is a public repo which i am using to be consistent in my coding skills and 
 This repository will help you (ig😅😅) to some extent and this is my initiative to be a consistent coder.
 <h4>Happy Coding😄😄</h4>
 
-# My LeetCode Progress
+# My LeetCode Progress till 2025 24 July
 
 ![My Leetcode Progress till 24 July 2025](assests/ss2.png)
 <br><br>
