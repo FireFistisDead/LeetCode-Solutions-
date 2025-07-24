@@ -10,8 +10,7 @@ This repository will help you (ig😅😅) to some extent and this is my initiat
 
 # My LeetCode Progress
 
-<img src="assets/s2.png" width="100%" />
-
+!["My Leetcode Progress till 24 July 2025(Not impressive though😅)"]("assests/ss2.png")
 <br><br>
 
 ## 🧠 Daily LeetCode Progress
