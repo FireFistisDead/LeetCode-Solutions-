@@ -1,5 +1,5 @@
 ## Hello Leetcoders 👋👋
-This is a public repo which i am using to be consistent in my coding skills and in leetcode contests i will be uploading regularly and consistently this repo is divided into the below file structure
+This is a public repo which i am using to be consistent in my coding skills and in leetcode contests i will be uploading regularly and consistently this repo is divided into the below file structure</br>
 ├── Year/ <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Month's Daily Problems <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Contest Problems with Week <br>
@@ -14,5 +14,5 @@ This journey is all about consistency, growth, and becoming a better problem sol
 
 ---
 
-## 📂 Directory Structure
+
 
