@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="assests/banner.jpeg" alt="description" width="100%" />
+  <img src="assests/banner.jpeg" alt="description" width="10%" />
 </p>
-# 🧠 Daily LeetCode Progress
+## 🧠 Daily LeetCode Progress
 
 Welcome to my LeetCode progress repository!  
 Here, I solve problems daily to enhance my skills in data structures and algorithms.  
