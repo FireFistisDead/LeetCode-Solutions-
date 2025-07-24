@@ -6,6 +6,13 @@
 
 
 
+## Hello Leetcoders 👋👋
+This is a public repo which i am using to be consistent in my coding skills and in leetcode contests i will be uploading regularly and consistently this repo is divided into the below file structure
+├── Year/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Month's Daily Problems <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Contest Problems with Week <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Problems which I do while I am free <br>
+
 
 ## 🧠 Daily LeetCode Progress
 
