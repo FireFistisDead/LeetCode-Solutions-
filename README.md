@@ -14,12 +14,14 @@ This repository will help you (ig😅😅) to some extent and this is my initiat
 <br><br>
 
 ## 🧠 Daily LeetCode Progress
-
-Welcome to my LeetCode progress repository!  
 Here, I solve problems daily to enhance my skills in data structures and algorithms.  
 This journey is all about consistency, growth, and becoming a better problem solver. 💪
 
 ---
+
+## Why to see at this repository🤔🤔??
+
+To make this repo public you can see the solutions of the problems which are in an organised way and you can also tell me how can i improve on some problems like how can i more optimise the solution.
 
 
 
