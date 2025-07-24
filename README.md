@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="b2958ae5-4d1d-4be5-a4b1-28746cde1c8a.png" alt="LeetCode Banner" width="100%" />
-</p>
+  ![](assests/banner.jpeg)
 
 # 🧠 Daily LeetCode Progress
 
