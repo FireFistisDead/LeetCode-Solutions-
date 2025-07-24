@@ -5,6 +5,8 @@ This is a public repo which i am using to be consistent in my coding skills and 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Contest Problems with Week <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Problems which I do while I am free <br>
 
+This repository will help you (ig😅😅) to some extent and this is my initiative to be a consistent coder.
+<h4>Happy Coding😄😄</h4>
 
 ## 🧠 Daily LeetCode Progress
 
