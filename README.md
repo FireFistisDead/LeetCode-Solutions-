@@ -1,5 +1,6 @@
-  ![](assests/banner.jpeg)
-
+<p align="center">
+  <img src="assests/banner.jpeg" alt="description" width="100%" />
+</p>
 # 🧠 Daily LeetCode Progress
 
 Welcome to my LeetCode progress repository!  
