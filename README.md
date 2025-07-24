@@ -10,7 +10,7 @@ This repository will help you (ig😅😅) to some extent and this is my initiat
 
 # My LeetCode Progress
 
-<img src="assets/banner.png" width="100%" />
+<img src="assets/s2.png" width="100%" />
 
 <br><br>
 
