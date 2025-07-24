@@ -1,11 +1,3 @@
-<p>
-  <img src="assests/banner.jpeg" alt="description" width="60%" height="70%" />
-</p>
-
-</br>
-
-
-
 ## Hello Leetcoders 👋👋
 This is a public repo which i am using to be consistent in my coding skills and in leetcode contests i will be uploading regularly and consistently this repo is divided into the below file structure
 ├── Year/ <br>
