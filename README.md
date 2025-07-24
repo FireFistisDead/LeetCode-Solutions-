@@ -1,6 +1,7 @@
 <p>
-  <img src="assests/banner.jpeg" alt="description" width="60%" height="70%" />
+  <img src="assets/banner.jpeg" alt="description" width="60%" height="70%" />
 </p>
+
 </br>
 
 
