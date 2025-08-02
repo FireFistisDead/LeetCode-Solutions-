@@ -28,7 +28,7 @@ Here, I will be uploading (or try to upload as much as possible😅) weekly and 
 
 ---
 ## Got the July Leetcoding Badge
-![](assests/JULY_2025_Badge.jpg)
+![](assests/July_2025_Badge.png)
 
 
 
