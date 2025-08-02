@@ -25,6 +25,8 @@ This journey is all about consistency, growth, and becoming a better problem sol
 ---
 ## Weekly Contest and Biweekly Contest Problem solutions🎯
 Here, I will be uploading (or try to upload as much as possible😅) weekly and biweekly contest solutions 
+---
+## Got the July Leetcoding Badge
 
 
 
