@@ -23,11 +23,12 @@ Here, I solve problems daily to enhance my skills in data structures and algorit
 This journey is all about consistency, growth, and becoming a better problem solver. 💪
 
 ---
-## Weekly Contest and Biweekly Contest Problem solutions🎯
+## Weekly Contest and Biweekly Contest Problem solutions
 Here, I will be uploading (or try to upload as much as possible😅) weekly and biweekly contest solutions 
+
 ---
 ## Got the July Leetcoding Badge
-
+![](assests/JULY_2025_Badge.jpg)
 
 
 
