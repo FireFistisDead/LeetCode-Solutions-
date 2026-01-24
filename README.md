@@ -30,7 +30,12 @@ Here, I will be uploading (or try to upload as much as possible😅) weekly and 
 ## Got the July Leetcoding Badge
 ![](assests/July_2025_Badge.png)
 
+---
 
+## My LeetCode Progress till 22 Jan 2026
+![My Leetcode Progress till 22 Jan 2026](assests/22-01-2026.png)
+<br><br>
+---
 
 
 
